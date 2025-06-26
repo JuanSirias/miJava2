@@ -11,6 +11,7 @@ public class HOLAMUNDO {
 
         System.out.println("La multiplicacion de " + a + "*" + b + "es de: " + multiplicacion);
 
+        System.out.println("Mi nombre es Juan Pablo Sirias Espinoza - Carné 2025-2005U");
 
     }
 }
